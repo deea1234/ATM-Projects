@@ -1,0 +1,8 @@
+# ninja log v5
+16	240	7041262849794231	CMakeFiles/lab3.dir/Tranzactie.cpp.obj	e050b04766589631
+28	740	7041262854706490	CMakeFiles/lab3.dir/Colectie.cpp.obj	aa0d690fabe66c7e
+34	750	7041262854854676	CMakeFiles/lab3.dir/Atm.cpp.obj	ba6a28686101ec85
+1	732	7041262854510149	CMakeFiles/lab3.dir/main.cpp.obj	238d7e4842ebda1b
+9	737	7041262854540840	CMakeFiles/lab3.dir/VectorDinamic.cpp.obj	652364233a8dec9d
+22	746	7041262854696407	CMakeFiles/lab3.dir/Ui.cpp.obj	89dd9e1b48b4e459
+750	929	7041262856647712	lab3.exe	89ee482cc3e34278
