@@ -1,6 +1,4 @@
-//
-// Created by Raluca on 4/24/2023.
-//
+
 
 #ifndef LAB3_ATM_H
 #define LAB3_ATM_H

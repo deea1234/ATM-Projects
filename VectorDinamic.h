@@ -1,6 +1,4 @@
-//
-// Created by Raluca on 4/20/2023.
-//
+
 #ifndef CURS6_VECTORDINAMIC_H
 #define CURS6_VECTORDINAMIC_H
 

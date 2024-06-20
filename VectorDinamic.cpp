@@ -1,6 +1,4 @@
-//
-// Created by Raluca on 4/20/2023.
-//
+
 #include <iostream>
 #include "VectorDinamic.h"
 
@@ -29,7 +27,7 @@ TElem VectorDinamic::getAt(int i) const {
 }
 
 TElem VectorDinamic::update(int i, TElem e) {
-    //TODO - IMPLEMENT METHOD
+
     if(i < 0 || i >= nrElems)
         throw std::invalid_argument("pozitie invalida");
     TElem elem = elems[i];
@@ -64,7 +62,7 @@ TElem VectorDinamic::sterge(int i) {
 }
 
 VectorDinamic::~VectorDinamic() {
-    //TODO - IMPLEMENT METHOD
+
 }
 
 void VectorDinamic::resize() {

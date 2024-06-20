@@ -1,6 +1,3 @@
-//
-// Created by Raluca on 4/20/2023.
-//
 
 #include "Colectie.h"
 

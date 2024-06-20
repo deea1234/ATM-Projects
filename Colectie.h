@@ -1,6 +1,4 @@
-//
-// Created by Raluca on 4/20/2023.
-//
+
 #ifndef LAB3_COLECTIE_H
 #define LAB3_COLECTIE_H
 #include <iostream>

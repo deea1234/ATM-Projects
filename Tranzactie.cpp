@@ -1,6 +1,3 @@
-//
-// Created by Raluca on 4/24/2023.
-//
 
 #include "Tranzactie.h"
 

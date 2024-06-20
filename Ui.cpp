@@ -1,6 +1,4 @@
-//
-// Created by Raluca on 4/24/2023.
-//
+
 #include "Atm.h"
 #include "Colectie.h"
 #include "Tranzactie.h"
